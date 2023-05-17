@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/insaid/static/css/main.490e356d.css",
+    "main.js": "/insaid/static/js/main.084bc88c.js",
+    "static/js/787.32444832.chunk.js": "/insaid/static/js/787.32444832.chunk.js",
+    "static/media/images (3).jpg": "/insaid/static/media/images (3).79f9af45a488a2d81f59.jpg",
+    "static/media/images (1).jpg": "/insaid/static/media/images (1).e99e1ad2f341ec1bb29c.jpg",
+    "static/media/images (2).jpg": "/insaid/static/media/images (2).6bf9b3c840d5efa8759d.jpg",
+    "static/media/download (1).jpg": "/insaid/static/media/download (1).ad6dd9af22334102bdc1.jpg",
+    "index.html": "/insaid/index.html",
+    "main.490e356d.css.map": "/insaid/static/css/main.490e356d.css.map",
+    "main.084bc88c.js.map": "/insaid/static/js/main.084bc88c.js.map",
+    "787.32444832.chunk.js.map": "/insaid/static/js/787.32444832.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.490e356d.css",
+    "static/js/main.084bc88c.js"
+  ]
+}
